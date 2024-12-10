@@ -1,4 +1,4 @@
-#Step 3: Organize your code with Functions
+#Step 3: Organize your code with Functions, just additional comment from Github
 
 import random
 from string import ascii_lowercase
